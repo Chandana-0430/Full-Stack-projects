@@ -26,7 +26,7 @@
         "validator": { "version": "13.11.0" },
         "winston-daily-rotate-file": { "version": "4.7.1" },
         "winston": { "version": "3.10.0" },
-        "xss-clean": { "version": "0.1.4" },
-        "yamljs": { "version": "0.3.0" }
+        "yamljs": { "version": "0.3.0" },
+        "xss-clean": { "version": "0.1.4" }
     }
 }
